@@ -1,0 +1,16 @@
+C:\Users\jona444j\Documents\Code\opgaver\datetime\bin\Debug\net5.0\datetime.exe
+C:\Users\jona444j\Documents\Code\opgaver\datetime\bin\Debug\net5.0\datetime.deps.json
+C:\Users\jona444j\Documents\Code\opgaver\datetime\bin\Debug\net5.0\datetime.runtimeconfig.json
+C:\Users\jona444j\Documents\Code\opgaver\datetime\bin\Debug\net5.0\datetime.runtimeconfig.dev.json
+C:\Users\jona444j\Documents\Code\opgaver\datetime\bin\Debug\net5.0\datetime.dll
+C:\Users\jona444j\Documents\Code\opgaver\datetime\bin\Debug\net5.0\ref\datetime.dll
+C:\Users\jona444j\Documents\Code\opgaver\datetime\bin\Debug\net5.0\datetime.pdb
+C:\Users\jona444j\Documents\Code\opgaver\datetime\obj\Debug\net5.0\datetime.csprojAssemblyReference.cache
+C:\Users\jona444j\Documents\Code\opgaver\datetime\obj\Debug\net5.0\datetime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jona444j\Documents\Code\opgaver\datetime\obj\Debug\net5.0\datetime.AssemblyInfoInputs.cache
+C:\Users\jona444j\Documents\Code\opgaver\datetime\obj\Debug\net5.0\datetime.AssemblyInfo.cs
+C:\Users\jona444j\Documents\Code\opgaver\datetime\obj\Debug\net5.0\datetime.csproj.CoreCompileInputs.cache
+C:\Users\jona444j\Documents\Code\opgaver\datetime\obj\Debug\net5.0\datetime.dll
+C:\Users\jona444j\Documents\Code\opgaver\datetime\obj\Debug\net5.0\ref\datetime.dll
+C:\Users\jona444j\Documents\Code\opgaver\datetime\obj\Debug\net5.0\datetime.pdb
+C:\Users\jona444j\Documents\Code\opgaver\datetime\obj\Debug\net5.0\datetime.genruntimeconfig.cache
